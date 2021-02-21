@@ -1,0 +1,13 @@
+100 days of code
+
+
+Python float numbers can include underscores for readability that will be stripped when it is used so 7_564.32 is actually 7564.32, the underscore simply introduced to make it more 'human readable'.
+
+hotkey : Ctrl + / to comment out/in all highlighted lines
+
+5 ** 2 equates to 5 squared so the result is 25
+
+16 // 5 equates to floor division, so whole number division, so the answer will be 3, this 3 will also be of type integer not float  
+
+
+
