@@ -5,9 +5,12 @@ Python float numbers can include underscores for readability that will be stripp
 
 hotkey : Ctrl + / to comment out/in all highlighted lines
 
+hotkey : Ctrl + { or Ctrl + } to add or remove a level of indentation
+
 5 ** 2 equates to 5 squared so the result is 25
 
 16 // 5 equates to floor division, so whole number division, so the answer will be 3, this 3 will also be of type integer not float  
 
+Docstrings can be created in a function by inclosing text between """ and """ as the first item below the definition of a new function
 
-
+Create a dictionary of functions ie operations = {'+': add, '-': subtract} where add and subract are defined as individual functions of their own
