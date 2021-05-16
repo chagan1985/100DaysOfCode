@@ -15,7 +15,7 @@ Docstrings can be created in a function by inclosing text between """ and """ as
 
 Create a dictionary of functions ie operations = {'+': add, '-': subtract} where add and subract are defined as individual functions of their own
 
-Importing classes as aliases can be done with import turtle as t or from turtle import Turtle as t
+Importing classes as aliases can be done with import turtle as tim or from turtle import Turtle as tim
 
 
 
