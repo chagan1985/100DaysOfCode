@@ -1,3 +1,12 @@
+###################################
+#
+# 100 Days of code bootcamp 2021
+# (Udemy course by Angela Yu)
+# 
+# Day 33 exercise - Christopher Hagan
+#
+###################################
+
 from os import EX_TEMPFAIL
 import requests
 import smtplib

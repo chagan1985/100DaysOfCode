@@ -1,3 +1,13 @@
+###################################
+#
+# 100 Days of code bootcamp 2021
+# (Udemy course by Angela Yu)
+# 
+# Day 34 exercise - Christopher Hagan
+#
+###################################
+
+
 from question_model import Question
 from data import question_data
 from quiz_brain import QuizBrain
