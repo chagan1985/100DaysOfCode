@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+}
+
+.blue {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+.red {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
+
+.pro {
+    text-decoration: underline;
+}
